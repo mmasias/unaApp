@@ -144,4 +144,4 @@ A primera vista, dime:
 
 ### 2Do
 
-[Proyecto](https://github.com/mmasias/appAsistencia) / [Propuesta](https://docs.google.com/spreadsheets/d/1x-yogkX8PaZd5ji-bAdWF95jG7YkhWLudH7tGetoVlM/edit?usp=sharing)
+[Proyecto](https://github.com/mmasias/appAsistencia) / [Propuesta](https://docs.google.com/spreadsheets/d/1x-yogkX8PaZd5ji-bAdWF95jG7YkhWLudH7tGetoVlM/edit?usp=sharing) / [Implementación@RealWorld™](https://docs.google.com/spreadsheets/d/1hp7n4bUOh9HELtgLSycLTZDjHgT8bXhPgQcY36_3fdQ/edit?gid=1106865299#gid=1106865299) (*acceso restringido*)
