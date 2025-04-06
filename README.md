@@ -141,3 +141,7 @@ A primera vista, dime:
   - Desarrollo
   - Pruebas
   - Despliegue
+
+### 2Do
+
+[Proyecto](https://github.com/mmasias/appAsistencia) / [Propuesta](https://docs.google.com/spreadsheets/d/1x-yogkX8PaZd5ji-bAdWF95jG7YkhWLudH7tGetoVlM/edit?usp=sharing)
