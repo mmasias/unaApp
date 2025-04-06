@@ -2,7 +2,7 @@
 
 <div align=right><sub>
 
-[*PdB*](barbacoa.md)
+[*PdB*](PdB.md)
 
 </sub></div>
 
