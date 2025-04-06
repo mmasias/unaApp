@@ -1,5 +1,11 @@
 # De la idea a la App
 
+<div align=right><sub>
+
+[*PdB*](barbacoa.md)
+
+</sub></div>
+
 ## ¿Por qué?
 
 ### Hardware
